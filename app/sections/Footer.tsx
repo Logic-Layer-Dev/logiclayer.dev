@@ -12,11 +12,11 @@ const Footer = () => {
         >
             <motion.div className="mx-auto flex w-[90%] flex-row items-center justify-between text-center text-[12px] text-[#e4ded7] sm:text-[12px] md:text-[14px] lg:max-w-[1440px] lg:text-[14px]">
                 <AnimatedBody
-                    text={"© Seek Visual Artist 2023"}
+                    text={"© Logic Layer 2023"}
                     className={"m-0 p-0"}
                 />
                 <div className="flex flex-col sm:flex-row  sm:gap-1 md:gap-2">
-                    <AnimatedBody text={"Design & Deployed by"} className={"m-0 p-0"} />
+                    <AnimatedBody text={"A thanks for the Design: "} className={"m-0 p-0"} />
                     <Link
                         href="https://github.com/nuIIpointerexception"
                         target="_blank"

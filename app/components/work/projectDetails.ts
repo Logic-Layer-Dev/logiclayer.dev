@@ -7,7 +7,11 @@ import {
     SiRust,
     SiTailwindcss,
     SiTypescript,
-    SiZig
+    SiZig,
+    SiNodedotjs,
+    SiPrisma,
+    SiPostgresql,
+    SiExpress
 } from "react-icons/si";
 import {IconType} from "react-icons";
 
@@ -27,41 +31,15 @@ export type ProjectProps = {
 export const projects = [
     {
         id: 0,
-        name: "Portfolio 2023",
+        name: "OperaFR",
         description:
-            "This is the fifth iteration of my portfolio.",
-        technologies: [SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiFramer],
-        techNames: ["TypeScript", "React", "Next.js", "Tailwind CSS", "Framer Motion"],
-        techLinks: ["https://www.typescriptlang.org/", "https://reactjs.org/", "https://nextjs.org/", "https://tailwindcss.com/", "https://www.framer.com/motion/"],
-        github: "https://github.com/nuIIpointerexception/www.seekvisualartist.com",
-        demo: "https://www.seekvisualartist.com/",
-        image: "/projects/portfolio.webp",
+            "A open source bucket of binary files that can be used in any server without cost.",
+        technologies: [SiGithub, SiNodedotjs, SiExpress, SiPrisma, SiPostgresql],
+        techNames: ["Github", "NodeJs", "ExpressJs", "Prisma", "PostgreSQL"],
+        techLinks: ["https://github.com/Logic-Layer-Dev/OperaFR", "https://nodejs.org/en", "https://expressjs.com//", "https://www.prisma.io/", "https://www.postgresql.org/"],
+        github: "https://github.com/Logic-Layer-Dev/OperaFR",
+        demo: "https://documenter.getpostman.com/view/10123907/2s9Y5WyjGL",
+        image: "/projects/OperaFR.png",
         available: true,
-    },
-    {
-        id: 1,
-        name: "Code Wars Solutions",
-        description:
-            "Just a couple of solutions for www.codewars.com problems. I'm currently ranked 7 kyu.",
-        technologies: [SiCplusplus, SiRust, SiNeovim],
-        techNames: ["C++", "Rust", "Neovim"],
-        techLinks: ["https://cplusplus.com/", "https://www.rust-lang.org/", "https://neovim.io/"],
-        github: "https://github.com/nuIIpointerexception/codewars",
-        demo: "https://www.codewars.com/",
-        image: "/projects/codewars.webp",
-        available: true,
-    },
-    {
-        id: 2,
-        name: "Coming Soon",
-        description:
-            "I'm currently working on a couple of projects. I'll update this section as soon as I'm done.",
-        technologies: [SiZig],
-        techNames: ["Zig"],
-        techLinks: ["https://www.ziglang.org/"],
-        github: "https://github.com/nuIIpointerexception/",
-        demo: "https://github.com/nuIIpointerexception/",
-        image: "/projects/construction.webp",
-        available: false,
     },
 ];

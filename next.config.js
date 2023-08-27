@@ -27,7 +27,7 @@ const nextConfig = {
   productionBrowserSourceMaps: isProduction,
   swcMinify: !isProduction,
   images: {
-    domains: ["raw.githubusercontent.com"],
+    domains: ["raw.githubusercontent.com", "cataas.com"],
   },
 };
 

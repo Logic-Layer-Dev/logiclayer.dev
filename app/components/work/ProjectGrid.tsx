@@ -9,7 +9,7 @@ const ProjectGrid = () => {
                 <h4
                     className={`text-[16px] md:text-[20px] lg:text-[34px] ${"text-[#e4ded7]"}`}
                 >
-          Check out some of my work!
+          Give a look in our projects
                 </h4>
             </div>
 
