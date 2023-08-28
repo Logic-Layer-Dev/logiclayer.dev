@@ -1,0 +1,578 @@
+[
+    {
+        "quote": "It's alive! It's alive!",
+        "movie": "Frankenstein",
+        "type": "movie",
+        "year": 1931
+    },
+    {
+        "quote": "Elementary, my dear Watson.",
+        "movie": "The Adventures of Sherlock Holmes",
+        "type": "movie",
+        "year": 1939
+    },
+    {
+        "quote": "We'll always have Paris.",
+        "movie": "Casablanca",
+        "type": "movie",
+        "year": 1942
+    },
+    {
+        "quote": "Well nobody is perfect",
+        "movie": "Some Like It Hot",
+        "type": "movie",
+        "year": 1959
+    },
+    {
+        "quote": "Bond. James Bond",
+        "movie": "Dr. No",
+        "type": "movie",
+        "year": 1962
+    },
+    {
+        "quote": "We rob banks.",
+        "movie": "Bonnie and Clyde",
+        "type": "movie",
+        "year": 1967
+    },
+    {
+        "quote": "Hello, gorgeous.",
+        "movie": "Funny Girl",
+        "type": "movie",
+        "year": 1968
+    },
+    {
+        "quote": "Run Away!",
+        "movie": "Monty Python and the Holy Grail",
+        "type": "movie",
+        "year": 1975
+    },
+    {
+        "quote": "You talking to me?",
+        "movie": "Taxi Driver",
+        "type": "movie",
+        "year": 1976
+    },
+    {
+        "quote": "Yo, Adrian!!.",
+        "movie": "Rocky",
+        "type": "movie",
+        "year": 1976
+    },
+    {
+        "quote": "Is it safe?",
+        "movie": "Marathon man",
+        "type": "movie",
+        "year": 1976
+    },
+    {
+        "quote": "Here's Johnny!",
+        "movie": "The Shining",
+        "type": "movie",
+        "year": 1980
+    },
+    {
+        "quote": "Leaping lizards!",
+        "movie": "Annie",
+        "type": "movie",
+        "year": 1982
+    },
+    {
+        "quote": "It’s a trap!",
+        "movie": "Star Wars: Return of Jedi",
+        "type": "movie",
+        "year": 1983
+    },
+    {
+        "quote": "I'll be back.",
+        "movie": "The Terminator",
+        "type": "movie",
+        "year": 1984
+    },
+    {
+        "quote": "Hasta la Vista, baby.",
+        "movie": "The Terminator",
+        "type": "movie",
+        "year": 1984
+    },
+    {
+        "quote": "Snap out of it!",
+        "movie": "Moonstruck",
+        "type": "movie",
+        "year": 1987
+    },
+    {
+        "quote": "Here endeth the lesson.",
+        "movie": "The Untouchables",
+        "type": "movie",
+        "year": 1987
+    },
+    {
+        "quote": "As you wish...",
+        "movie": "The Princess Bride",
+        "type": "movie",
+        "year": 1987
+    },
+    {
+        "quote": "Inconcievable!",
+        "movie": "The Princess Bride",
+        "type": "movie",
+        "year": 1987
+    },
+    {
+        "quote": "Yippie-ki-yay, motherf—er!",
+        "movie": "Die Hard",
+        "type": "movie",
+        "year": 1988
+    },
+    {
+        "quote": "Hasta la vista, baby.",
+        "movie": "Terminator 2: Judgment Day",
+        "type": "movie",
+        "year": 1991
+    },
+    {
+        "quote": "You're killing me, smalls!",
+        "movie": "The Sandlot",
+        "type": "movie",
+        "year": 1993
+    },
+    {
+        "quote": "Clever girl.",
+        "movie": "Jurassic Park",
+        "type": "movie",
+        "year": 1993
+    },
+    {
+        "quote": "You bred raptors?",
+        "movie": "Jurassic Park",
+        "type": "movie",
+        "year": 1993
+    },
+    {
+        "quote": "I'm your Huckleberry.",
+        "movie": "Tombstone",
+        "type": "movie",
+        "year": 1993
+    },
+    {
+        "quote": "You’re killin’ me, Smalls.",
+        "movie": "The Sandlot",
+        "type": "movie",
+        "year": 1993
+    },
+    {
+        "quote": "Run, Forrest, run!",
+        "movie": "Forrest Gump",
+        "type": "movie",
+        "year": 1994
+    },
+    {
+        "quote": "Salvation lies within.",
+        "movie": "Shawshank Redemption",
+        "type": "movie",
+        "year": 1994
+    },
+    {
+        "quote": "Hakuna matata",
+        "movie": "The Lion King",
+        "type": "movie",
+        "year": 1994
+    },
+    {
+        "quote": "Hack the planet.",
+        "movie": "Hackers",
+        "type": "movie",
+        "year": 1995
+    },
+    {
+        "quote": "What's in the box?!",
+        "movie": "Seven",
+        "type": "movie",
+        "year": 1995
+    },
+    {
+        "quote": "Bye Felicia!",
+        "movie": "Friday",
+        "type": "movie",
+        "year": 1995
+    },
+    {
+        "quote": "To infinity and beyond!",
+        "movie": "Toy Story",
+        "type": "movie",
+        "year": 1995
+    },
+    {
+        "quote": "Show me the money!",
+        "movie": "Jerry Maguire",
+        "type": "movie",
+        "year": 1996
+    },
+    {
+        "quote": "Ignorance Is Bliss",
+        "movie": "The Matrix",
+        "type": "movie",
+        "year": 1999
+    },
+    {
+        "quote": "I see dead people.",
+        "movie": "The Sixth Sense",
+        "type": "movie",
+        "year": 1999
+    },
+    {
+        "quote": "I know kung fu.",
+        "movie": "The Matrix",
+        "type": "movie",
+        "year": 1999
+    },
+    {
+        "quote": "Are you not entertained?",
+        "movie": "Gladiator",
+        "type": "movie",
+        "year": 2000
+    },
+    {
+        "quote": "Dude, where's my car?",
+        "movie": "Dude, Where's My Car?",
+        "type": "movie",
+        "year": 2000
+    },
+    {
+        "quote": "Wilsoooooon.",
+        "movie": "Cast Away",
+        "type": "movie",
+        "year": 2000
+    },
+    {
+        "quote": "Snnnnnooooooooooow!!!!!!!!!",
+        "movie": "Snow Day",
+        "type": "movie",
+        "year": 2000
+    },
+    {
+        "quote": "You're a wizard, Harry.",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "type": "movie",
+        "year": 2001
+    },
+    {
+        "quote": "You shall not pass!",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "type": "movie",
+        "year": 2001
+    },
+    {
+        "quote": "Ogres are like onions.",
+        "movie": "Shrek",
+        "type": "movie",
+        "year": 2001
+    },
+    {
+        "quote": "Do you like dags?",
+        "movie": "The Snatch",
+        "type": "movie",
+        "year": 2001
+    },
+    {
+        "quote": "There is always hope.",
+        "movie": "The Lord of the Rings: The Two Towers",
+        "type": "movie",
+        "year": 2002
+    },
+    {
+        "quote": "My precious",
+        "movie": "The Lord of the Rings: The Two Towers",
+        "type": "movie",
+        "year": 2002
+    },
+    {
+        "quote": "My precious...",
+        "movie": "The Lord of the Rings: The Two Towers",
+        "type": "movie",
+        "year": 2002
+    },
+    {
+        "quote": "We're goin' streaking!",
+        "movie": "Old School",
+        "type": "movie",
+        "year": 2003
+    },
+    {
+        "quote": "Just keep swimming.",
+        "movie": "Finding Nemo",
+        "type": "movie",
+        "year": 2003
+    },
+    {
+        "quote": "Boo, you whore!",
+        "movie": "Mean Girls",
+        "type": "movie",
+        "year": 2004
+    },
+    {
+        "quote": "That is so fetch!",
+        "movie": "Mean Girls",
+        "type": "movie",
+        "year": 2004
+    },
+    {
+        "quote": "Is butter a carb?",
+        "movie": "Mean Girls",
+        "type": "movie",
+        "year": 2004
+    },
+    {
+        "quote": "I love lamp.",
+        "movie": "Anchorman: The Legend of Ron Burgundy",
+        "type": "movie",
+        "year": 2004
+    },
+    {
+        "quote": "I am the senate!",
+        "movie": "Star Wars: Episode III – Revenge of the Sith",
+        "type": "movie",
+        "year": 2005
+    },
+    {
+        "quote": "That's what she said.",
+        "movie": "The Office",
+        "type": "tv",
+        "year": 2005
+    },
+    {
+        "quote": "Speed. I am speed.",
+        "movie": "Cars",
+        "type": "movie",
+        "year": 2006
+    },
+    {
+        "quote": "Florals? For Spring. Groundbreaking.",
+        "movie": "The Devil Wears Prada",
+        "type": "movie",
+        "year": 2006
+    },
+    {
+        "quote": "Very nice!",
+        "movie": "Borat",
+        "type": "movie",
+        "year": 2006
+    },
+    {
+        "quote": "This is Sparta!",
+        "movie": "300",
+        "type": "movie",
+        "year": 2006
+    },
+    {
+        "quote": "Are you watching closely?",
+        "movie": "The Prestige",
+        "type": "movie",
+        "year": 2006
+    },
+    {
+        "quote": "TIA This is Africa",
+        "movie": "Blood Diamond",
+        "type": "movie",
+        "year": 2006
+    },
+    {
+        "quote": "Bazinga!",
+        "movie": "The Big Bang theory",
+        "type": "tv",
+        "year": 2007
+    },
+    {
+        "quote": "Why so serious?",
+        "movie": "The Dark Knight",
+        "type": "movie",
+        "year": 2008
+    },
+    {
+        "quote": "Give me a scotch!",
+        "movie": "Iron Man",
+        "type": "movie",
+        "year": 2008
+    },
+    {
+        "quote": "Fuck them kids",
+        "movie": "Soul Men",
+        "type": "movie",
+        "year": 2008
+    },
+    {
+        "quote": "Adventure is out there",
+        "movie": "Up",
+        "type": "movie",
+        "year": 2009
+    },
+    {
+        "quote": "The winter is coming.",
+        "movie": "Game of Thrones",
+        "type": "tv",
+        "year": 2011
+    },
+    {
+        "quote": "Winter is coming!",
+        "movie": "Game of Thrones",
+        "type": "tv",
+        "year": 2011
+    },
+    {
+        "quote": "Chaos is a ladder!",
+        "movie": "Game of Thrones",
+        "type": "tv",
+        "year": 2011
+    },
+    {
+        "quote": "Hodor",
+        "movie": "Game of Thrones",
+        "type": "movie",
+        "year": 2011
+    },
+    {
+        "quote": "Better clench up, Legolas.",
+        "movie": "The Avengers",
+        "type": "movie",
+        "year": 2012
+    },
+    {
+        "quote": "Genius, billionaire, playboy, philanthropist.",
+        "movie": "The Avengers",
+        "type": "movie",
+        "year": 2012
+    },
+    {
+        "quote": "Let it go!",
+        "movie": "Frozen",
+        "type": "movie",
+        "year": 2013
+    },
+    {
+        "quote": "Not quite my tempo.",
+        "movie": "Whiplash",
+        "type": "movie",
+        "year": 2014
+    },
+    {
+        "quote": "I am Groot.",
+        "movie": "Guardians of the Galaxy",
+        "type": "movie",
+        "year": 2014
+    },
+    {
+        "quote": "Dress like a kingsman.",
+        "movie": "KINGSMAN: The Secret Service",
+        "type": "movie",
+        "year": 2014
+    },
+    {
+        "quote": "Wubba lubba dub dub!",
+        "movie": "Rick and Morty",
+        "type": "tv",
+        "year": 2014
+    },
+    {
+        "quote": "No system is safe.",
+        "movie": "Who Am I",
+        "type": "movie",
+        "year": 2014
+    },
+    {
+        "quote": "Not my tempo.",
+        "movie": "Whiplash",
+        "type": "movie",
+        "year": 2014
+    },
+    {
+        "quote": "Mark Watney, Space Pirate.",
+        "movie": "The Martian",
+        "type": "movie",
+        "year": 2015
+    },
+    {
+        "quote": "Witness me!",
+        "movie": "Mad Max",
+        "type": "movie",
+        "year": 2015
+    },
+    {
+        "quote": "Manners maketh man",
+        "movie": "KINGSMAN: The Secret Service",
+        "type": "movie",
+        "year": 2015
+    },
+    {
+        "quote": "Chewie, we're home.",
+        "movie": "The Force Awakens",
+        "type": "movie",
+        "year": 2015
+    },
+    {
+        "quote": "Break hearts, not promises.",
+        "movie": "Turtles All the Way Down",
+        "type": "movie",
+        "year": 2017
+    },
+    {
+        "quote": "We Shall Never Surrender.",
+        "movie": "Dunkirk",
+        "type": "movie",
+        "year": 2017
+    },
+    {
+        "quote": "Is this your king?",
+        "movie": "Black Panther",
+        "type": "movie",
+        "year": 2018
+    },
+    {
+        "quote": "Whatever it takes!",
+        "movie": "Avengers : Infinity War",
+        "type": "movie",
+        "year": 2018
+    },
+    {
+        "quote": "I love you 3000.",
+        "movie": "Avengers: Endgame",
+        "type": "movie",
+        "year": 2019
+    },
+    {
+        "quote": "There is no punchline.",
+        "movie": "Joker",
+        "type": "movie",
+        "year": 2019
+    },
+    {
+        "quote": "Guns, lots of guns.",
+        "movie": "John Wick 3: Parabellum",
+        "type": "movie",
+        "year": 2019
+    },
+    {
+        "quote": "Let’s do this.",
+        "movie": "Men in Black",
+        "type": "movie",
+        "year": 2019
+    },
+    {
+        "quote": "I am Iron Man.",
+        "movie": "Avengers: Endgame",
+        "type": "movie",
+        "year": 2019
+    },
+    {
+        "quote": "Anakin is gone.",
+        "movie": "...",
+        "type": "movie",
+        "year": 0
+    },
+    {
+        "quote": "Just keep runnig.",
+        "movie": "Cyberpunk: edgerunners",
+        "type": "tv",
+        "year": 2022
+    }
+]
