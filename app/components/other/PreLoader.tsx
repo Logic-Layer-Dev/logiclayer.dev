@@ -1,9 +1,15 @@
 import React, { useEffect } from "react";
 import gsap from "gsap";
+import filmList from "../../../public/data.json";
 
 const PreLoader: React.FC = () => {
+    const [arrayWords, setArrayWords] = React.useState(["Anakin", "is", "Gone"]);
+    
     useEffect(() => {
-        const tl = gsap.timeline();
+        const film = filmList[Math.floor(Math.random() * filmList.length)];
+        setArrayWords(film.quote.split(" "));
+        
+        const tl = gsap.timeline();    
 
         // Preloader Animation
         const preLoaderAnim = () => {
@@ -93,10 +99,15 @@ const PreLoader: React.FC = () => {
                 style={{
                     height: "60px",
                 }}
-            >
-                <span>&quot;Anakin</span>
+            >   
+                {arrayWords.map((word, index) => (
+                    <span key={index}>{index == 0 ? `"` : ""}{word}{index == arrayWords.length - 1 ? `"` : ""}</span>
+                ))}
+
+                {/* <span>&quot;Anakin</span>
                 <span> is </span>
-                <span>Gone&quot;</span>
+                <span>Gone&quot;</span> */}
+
                 <div className="sub hidden"></div>
             </div>
         </div>
